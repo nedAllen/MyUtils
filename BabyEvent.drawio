@@ -14,7 +14,25 @@
           <mxGeometry height="60" width="80" x="360" y="400" as="geometry" />
         </mxCell>
         <mxCell id="1KGIpgvdNGcsuUB4sJp6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="230" width="560" x="80" y="520" as="geometry" />
+          <mxGeometry height="370" width="580" x="80" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Agent&lt;div&gt;(LangGraph)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="300" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Memory" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Context" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Memory" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Memory" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Memory" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="670" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
