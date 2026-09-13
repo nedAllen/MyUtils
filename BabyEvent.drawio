@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e27tmix0lzYzYoHJsB1L-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User&lt;div&gt;(Browser/App)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="190" y="380" as="geometry" />
+          <mxGeometry height="60" width="80" x="110" y="380" as="geometry" />
         </mxCell>
         <mxCell id="1KGIpgvdNGcsuUB4sJp6-14" edge="1" parent="1" source="e27tmix0lzYzYoHJsB1L-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" target="e27tmix0lzYzYoHJsB1L-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e27tmix0lzYzYoHJsB1L-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FrontEnd&lt;div&gt;(React)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="330" y="380" as="geometry" />
+          <mxGeometry height="60" width="80" x="250" y="380" as="geometry" />
         </mxCell>
         <mxCell id="1KGIpgvdNGcsuUB4sJp6-15" edge="1" parent="1" source="e27tmix0lzYzYoHJsB1L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="1KGIpgvdNGcsuUB4sJp6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e27tmix0lzYzYoHJsB1L-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BackEnd&lt;div&gt;(FastAPI)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="80" x="470" y="380" as="geometry" />
+          <mxGeometry height="60" width="80" x="390" y="380" as="geometry" />
         </mxCell>
         <mxCell id="1KGIpgvdNGcsuUB4sJp6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="350" width="580" x="80" y="520" as="geometry" />
@@ -53,14 +53,15 @@
         <mxCell id="1KGIpgvdNGcsuUB4sJp6-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Context" vertex="1">
           <mxGeometry height="60" width="120" x="240" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="1KGIpgvdNGcsuUB4sJp6-10" edge="1" parent="1" source="1KGIpgvdNGcsuUB4sJp6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1KGIpgvdNGcsuUB4sJp6-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-10" edge="1" parent="1" source="1KGIpgvdNGcsuUB4sJp6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="1KGIpgvdNGcsuUB4sJp6-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="780" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="1KGIpgvdNGcsuUB4sJp6-11" edge="1" parent="1" source="1KGIpgvdNGcsuUB4sJp6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="1KGIpgvdNGcsuUB4sJp6-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1KGIpgvdNGcsuUB4sJp6-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Knowledge Base&lt;div&gt;(Neo4j, PGVector)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="100" y="780" as="geometry" />
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-11" edge="1" parent="1" source="1KGIpgvdNGcsuUB4sJp6-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" target="1KGIpgvdNGcsuUB4sJp6-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="780" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1KGIpgvdNGcsuUB4sJp6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tools" vertex="1">
           <mxGeometry height="60" width="120" x="380" y="670" as="geometry" />
@@ -90,6 +91,15 @@
             <mxPoint x="380" y="625" as="sourcePoint" />
             <mxPoint x="310" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-23" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" value="Knowledge Base&lt;div&gt;(Neo4j, PGVector)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="260" x="100" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-24" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=9;" value="&lt;div&gt;기록(원문)&lt;/div&gt;(PostgreSQL)" vertex="1">
+          <mxGeometry height="70" width="110" x="525" y="375" as="geometry" />
+        </mxCell>
+        <mxCell id="1KGIpgvdNGcsuUB4sJp6-25" edge="1" parent="1" source="e27tmix0lzYzYoHJsB1L-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="1KGIpgvdNGcsuUB4sJp6-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
